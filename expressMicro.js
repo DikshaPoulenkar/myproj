@@ -6,8 +6,7 @@ var listController = function(req,resp)
 	console.log("JSON data received through REST api");
 	var list = [
 	{ProductId:1, ProductName: 'Television', Price: 50000},
-	{ProductId:2, ProductName: 'Referigerator', Price: 30000},
-	{ProductId:3, ProductName: 'AC', Price: 40000}
+	{ProductId:2, ProductName: 'Referigerator', Price: 30000}
 	]
 	resp.send(list);
 }
