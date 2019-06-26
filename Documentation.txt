@@ -1,0 +1,39 @@
+1)
+
+Problem Definition:
+
+A Multinational Company Fabrikam has 24 offices around the world. 
+The Company wants to get the following tasks done. You need to :  
+1) Build an Information Management Solution to be hosted on the web.
+2) Also build an online Shopping Website for the company to display it's products to its Customers and host the same.
+3) Build intranet for the company employees to access Feedback Management System and Leave Management Information.
+4) Use company's Amazon Web Services(AWS) subscription to use it as Information as a Service (I-a-a-S).
+5) Use AWS or Google Cloud Platform inorder to host the Information Systems on cloud.
+
+
+2)
+
+Functional Requirements
+
+For Online Shopping Website: 
+1) Login to customer account
+2) View products 
+3) Add products to Cart
+4) Checkout
+
+For Leave Management System
+1) Login to Employee account
+2) View number of leaves granted
+3) View number of balance leaves available
+4) Select type of leave
+4) Apply for a leave
+
+For Feedback Management System
+1) Login to Employee Account
+2) Fill up the Feedback form
+3) Submit the Feedback form
+
+
+Non-Functional Requirements
+1) Security to be provided for oonline transactions
+2) Validate Users
